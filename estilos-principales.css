@@ -1,0 +1,11 @@
+.fuentegeneral{
+    font-family: Calibri;  
+}
+
+p {
+    color: red;
+}
+
+a:hover{
+    color:violet
+}
