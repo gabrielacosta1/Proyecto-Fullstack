@@ -1,11 +1,20 @@
-.fuentegeneral{
-    font-family: Calibri;  
+#probando-id{
+    text-align: center;
+    background-color: bisque; 
 }
 
 p {
     color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
 }
 
 a:hover{
     color:violet
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: coral;
 }
