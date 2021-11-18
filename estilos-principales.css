@@ -1,20 +1,37 @@
 #probando-id{
     text-align: center;
-    background-color: bisque; 
+    font-family: 'Oswald', sans-serif;
+    font-size: medium;
 }
 
 p {
-    color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
+    
 }
 
 a:hover{
     color:violet
+    
 }
 
+.bienvenidos{
+    box-shadow: 0 0 5px #888;
+}
+
+
 ul {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: smaller;
-    color: coral;
+    column-count: initial;
+    column-gap: 20px;
+    color:darkred;
+    list-style:none;
+
+}
+
+header {
+    background: linear-gradient(to bottom, blue, white);
+}
+
+nav {
+    background: linear-gradient(to right, blue, white);
 }
